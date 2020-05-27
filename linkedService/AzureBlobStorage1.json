@@ -1,0 +1,10 @@
+{
+	"name": "AzureBlobStorage1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://blobstoragene.blob.core.windows.net"
+		}
+	}
+}
