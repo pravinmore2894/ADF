@@ -7,6 +7,9 @@
 		},
 		"AzureBlobStorage1_properties_typeProperties_serviceEndpoint": {
 			"value": "https://blobstoragene.blob.core.windows.net"
+		},
+		"AzureKeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://adfetlsecrets.vault.azure.net/"
 		}
 	}
 }
